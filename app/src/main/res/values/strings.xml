@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PC Blogs</string>
+    <string name="connection_error">Error connecting</string>
+    <string name="xml_error">Data error</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="top_blog_description">%s - %s</string>
+</resources>
